@@ -31,7 +31,7 @@ This project processes and analyzes historical data for video game sales up to t
 - *User_Score*: user score (out of 10)
 - *Rating*: Entertainment Software Rating Board (ESRB) rating (https://www.esrb.org/ratings-guide/)
 
-## Required Libraries
+## Requirements
 
 - pandas
 - numpy
